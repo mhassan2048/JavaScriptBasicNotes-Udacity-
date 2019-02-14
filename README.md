@@ -28,6 +28,9 @@ Backlash **"\\"** is used to escape the special meaning of characters such as qu
 Some other special characters are: </br>
 ![](Images/espChar.JPG)
 
+### String Comparisons
+String comparisons are case sensetive. **"Yes" == "yes"** will return _false_ in the console.
+
 ### String Index
 String indexing starts from **0**. Spaces are valid characters and take up indexes in strings.
 
