@@ -22,3 +22,9 @@ We have to use the same quote (' ' or " ") for the String datatype in JS. String
 Strings can be concatenated with other strings with the **+** operator. Strings can be concatanated with arithmaic operations of numbers as well. For example: </br>
 ![](Images/stringConcat.JPG)
 
+## Variables
+For JS variables we use the **var** keyword. It can be used for any kind of data type. For example: </br>
+**var afterTax = 500.00; //use camelCase for varibale names (convention) </br>
+**var name = "zoe"
+
+
