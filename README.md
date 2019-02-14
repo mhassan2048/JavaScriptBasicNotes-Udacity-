@@ -14,3 +14,7 @@ Any positive or negetive integer and decimals. We can do on the fly arithmatic c
 **Comparing Numbers:** Comaparing opeartions can be done on numbers. The result of the comparison will returned in boolean (true or false).</br>
 ![](Images/compareNumbers.JPG)
 
+### Strings
+We have to use the same quote (' ' or " ") for the String datatype in JS. Strings won't work without quotes. </br>
+![](Images/strings.JPG)
+
