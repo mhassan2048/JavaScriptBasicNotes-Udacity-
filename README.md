@@ -9,4 +9,6 @@ Console log prints a string. Syntax:
 _console.log("hiya friend!");_
 
 ## Data Types
-**Data Types- Numbers:** Any positive or negetive integer and decimals. We can do on the fly arithmatic calculations with them on the browser.
+**Numbers:** Any positive or negetive integer and decimals. We can do on the fly arithmatic calculations with them on the browser.
+**Comparing Numbers:** Comaparing opeartions can be done on numbers. The result of the comparison will returned in boolean (true or false). 
+
