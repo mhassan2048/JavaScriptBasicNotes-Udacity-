@@ -23,8 +23,10 @@ Strings can be concatenated with other strings with the **+** operator. Strings 
 ![](Images/stringConcat.JPG)
 
 ### Escaping Characters
-Backlash **"\"** is used to escape the special meaning of characters such as quotes. 
-![](Images/escChar.JPG)
+Backlash **"\\"** is used to escape the special meaning of characters such as quotes. 
+![](Images/escChar.JPG) </br>
+Some other special characters are: </br>
+![](Images/espChar.JPG)
 
 ### String Index
 String indexing starts from **0**. Spaces are valid characters and take up indexes in strings.
