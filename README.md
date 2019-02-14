@@ -22,6 +22,10 @@ We have to use the same quote (' ' or " ") for the String datatype in JS. String
 Strings can be concatenated with other strings with the **+** operator. Strings can be concatanated with arithmaic operations of numbers as well. For example: </br>
 ![](Images/stringConcat.JPG)
 
+### Escaping Characters
+Backlash **"\"** is used to escape the special meaning of characters such as quotes. 
+![](Images/escChar.JPG)
+
 ### String Index
 String indexing starts from **0**. Spaces are valid characters and take up indexes in strings.
 
