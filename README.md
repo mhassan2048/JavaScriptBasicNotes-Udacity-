@@ -33,7 +33,8 @@ Some other special characters are: </br>
 ### String Comparisons
 String comparisons are case sensetive. 
 ````javascript "Yes" == "yes" 
-````The code above will return _false_ in the console.
+````
+The code above will return _false_ in the console.
 
 
 ### String Index
