@@ -43,6 +43,24 @@ For JS variables we use the **var** keyword. It can be used for any kind of data
 var afterTax = 500.00; //use camelCase for varibale names (convention) </br>
 var name = "zoe";
 ````
+## Null, Undefined, NaN
+### Null
+It means value of nothing.
+### Undefined
+It means a value has not been assigned to a variable.
+![](Images/null-un-NaN.JPG)
+### NaN
+NaN stands for "Not-A-Number" and it's often returned indicating an error with number operations. For instance, if you wrote some code that performed a math calculation, and the calculation failed to produce a valid number, NaN might be returned. Example:
+````javascript
+Math.sqrt(-10);
+````
+## Implicit type coercion
+Javascript isa loosly typed language, meaning it can interpete data types.
+````javascript
+1 == "1" 
+```` 
+The code above will return true.
+
 
 
 
