@@ -59,7 +59,9 @@ Javascript isa loosly typed language, meaning it can interpete data types.
 ````javascript
 1 == "1" 
 ```` 
-The code above will return true.
+The code above will return true. Some more examples: </br>
+![](Images/impcoe.JPG)
+
 
 
 
