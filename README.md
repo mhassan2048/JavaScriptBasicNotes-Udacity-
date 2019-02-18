@@ -6,7 +6,9 @@ I created these notes primarily for my own convenience while taking Udacity's fr
 
 ## Console Log:
 Console log prints a string. Syntax:
-_console.log("hiya friend!");_
+````javascript
+console.log("hiya friend!");
+````
 
 ## Data Types
 ### Numbers 
@@ -29,15 +31,20 @@ Some other special characters are: </br>
 ![](Images/espChar.JPG)
 
 ### String Comparisons
-String comparisons are case sensetive. **"Yes" == "yes"** will return _false_ in the console.
+String comparisons are case sensetive. 
+````javascript "Yes" == "yes" 
+````The code above will return _false_ in the console.
+
 
 ### String Index
 String indexing starts from **0**. Spaces are valid characters and take up indexes in strings.
 
 ## Variables
 For JS variables we use the **var** keyword. It can be used for any kind of data type. For example: </br>
-**var afterTax = 500.00; //use camelCase for varibale names (convention)** </br>
-**var name = "zoe";**
+````javascript
+var afterTax = 500.00; //use camelCase for varibale names (convention) </br>
+var name = "zoe";
+````
 
 
 
