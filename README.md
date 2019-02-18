@@ -31,10 +31,7 @@ Some other special characters are: </br>
 ![](Images/espChar.JPG)
 
 ### String Comparisons
-String comparisons are case sensetive. 
-````javascript "Yes" == "yes" 
-````
-The code above will return _false_ in the console.
+String comparisons are case sensetive. **"Yes" == "yes"** -this code above will return _false_ in the console.
 
 
 ### String Index
