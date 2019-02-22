@@ -62,6 +62,9 @@ Javascript isa loosly typed language, meaning it can interpete data types.
 The code above will return true. Some more examples: </br>
 ![](Images/impcoe.JPG)
 
+### Conditionals
+## Short Circuiting
+![](Images/ShortCircuiting.JPG)
 
 
 
